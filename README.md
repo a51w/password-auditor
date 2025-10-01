@@ -26,10 +26,3 @@ This project was built to strengthen skills in **Python programming, security aw
 - **Git & GitHub** for version control
 
 ---
-
-## 🚀 How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/password-auditor.git
-   cd password-auditor/src
