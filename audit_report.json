@@ -1,0 +1,82 @@
+[
+  {
+    "password": "password",
+    "length": 8,
+    "entropy": 37.6,
+    "classification": "Weak",
+    "is_common": true,
+    "count": 1
+  },
+  {
+    "password": "123456",
+    "length": 6,
+    "entropy": 19.93,
+    "classification": "Weak",
+    "is_common": true,
+    "count": 1
+  },
+  {
+    "password": "qwerty",
+    "length": 6,
+    "entropy": 28.2,
+    "classification": "Weak",
+    "is_common": true,
+    "count": 1
+  },
+  {
+    "password": "Hunter2!",
+    "length": 8,
+    "entropy": 52.44,
+    "classification": "Moderate",
+    "is_common": false,
+    "count": 1
+  },
+  {
+    "password": "My$ecur3P@ss",
+    "length": 12,
+    "entropy": 78.66,
+    "classification": "Strong",
+    "is_common": false,
+    "count": 1
+  },
+  {
+    "password": "letmein",
+    "length": 7,
+    "entropy": 32.9,
+    "classification": "Weak",
+    "is_common": true,
+    "count": 1
+  },
+  {
+    "password": "P@ssw0rd123",
+    "length": 11,
+    "entropy": 72.1,
+    "classification": "Strong",
+    "is_common": false,
+    "count": 2
+  },
+  {
+    "password": "helloWorld",
+    "length": 10,
+    "entropy": 57.0,
+    "classification": "Strong",
+    "is_common": false,
+    "count": 1
+  },
+  {
+    "password": "abc123",
+    "length": 6,
+    "entropy": 31.02,
+    "classification": "Weak",
+    "is_common": true,
+    "count": 1
+  },
+  {
+    "password": "P@ssw0rd123",
+    "length": 11,
+    "entropy": 72.1,
+    "classification": "Strong",
+    "is_common": false,
+    "count": 2
+  }
+]

@@ -1,0 +1,11 @@
+password,length,entropy,classification,is_common,count
+password,8,37.6,Weak,True,1
+123456,6,19.93,Weak,True,1
+qwerty,6,28.2,Weak,True,1
+Hunter2!,8,52.44,Moderate,False,1
+My$ecur3P@ss,12,78.66,Strong,False,1
+letmein,7,32.9,Weak,True,1
+P@ssw0rd123,11,72.1,Strong,False,2
+helloWorld,10,57.0,Strong,False,1
+abc123,6,31.02,Weak,True,1
+P@ssw0rd123,11,72.1,Strong,False,2
